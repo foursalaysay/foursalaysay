@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Kyle Salaysay
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning T3 Stack
-- 💞️ I’m looking to collaborate on Software Engineers
-- 📫 How to reach me foursalaysay@gmail.com
+<h1 className='text-4xl text-center '>Hello, I'm John Kyle Salaysay</h1>
+<h2>Web3 Enthusiast | Web Developer | Aspiring Software Engineer</h2>
 
 Currently studying the Solana Blockchain and Rust Programming Language!
 
