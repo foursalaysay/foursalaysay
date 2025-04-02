@@ -8,26 +8,12 @@
 
 ## 🛠 Tech Stack
 
-- **Blockchain**: Solana, Ethereum, Rust, Solidity  
+- **Blockchain**: Solana, Ethereum, Rust, Solidity  (Currently Studying)
 - **Web Development**: Next.js, React, Tailwind CSS, TypeScript  
 - **Backend**: Node.js, Prisma, MongoDB, Firebase  
 - **Game Development**: Unity, C#  
 
 ---
-
-## 📌 Featured Projects
-
-### 1️⃣ **[Blockchain Donation Platform](https://your-project-link.com)**
-🔹 A decentralized platform incentivizing blood and organ donations using blockchain.  
-**Tech:** Solana, Next.js, Prisma, Tailwind CSS  
-
-### 2️⃣ **[AI-Powered Healthcare App](https://your-project-link.com)**
-🔹 Uses AI to predict potential health issues before symptoms appear.  
-**Tech:** Next.js, Python, TensorFlow  
-
-### 3️⃣ **[Rosen Metaverse Experience](https://your-project-link.com)**
-🔹 Bridging real and digital worlds through immersive metaverse interactions.  
-**Tech:** Unity, C#, Solana  
 
 ---
 
