@@ -1,4 +1,4 @@
-# 🚀 John Kyle Salaysay | Web3 Enthusiast & Blockchain Developer
+# 🚀 John Kyle Salaysay | Web3 Enthusiast & Aspiring Blockchain Developer
 
 ![Profile Banner](https://your-image-link.com)  
 
